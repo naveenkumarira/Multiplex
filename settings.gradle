@@ -1,2 +1,2 @@
-include ':ui', ':domain', ':data'
+include ':ui', ':domain', ':data', ':core'
 rootProject.name='Multiplex'
